@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Post Viewers App</string>
+    <string name="total_users" >Total number of Unique Users</string>
+    <string name="total_posts">Total number of posts</string>
+</resources>
